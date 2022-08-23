@@ -88,6 +88,14 @@ body {
   width: 100%;
 }
 
-.expensesTable tr{
-  width: 30%;
+.expensesTitle {
+  width: 100%;
+  display: flex;
+   justify-content: space-around;
+}
+
+.expenseName {
+  display: flex;
+  justify-content: center;
+  width: 33.3%;
 }
