@@ -1,6 +1,13 @@
+import BudgetForm from './BudgetForm/BudgetForm';
+import './index.css'
 function App() {
   return (
-    <h1>Hello from App</h1>
+    <div className="outerDiv">
+      <h1>Budget</h1>
+      <div className="innerDiv">
+        <BudgetForm />
+      </div>
+    </div>
   );
 }
 
