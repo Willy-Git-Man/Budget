@@ -78,6 +78,16 @@ function BudgetForm() {
             </div>
         </div>
 
+        <div className="toDo">
+          <h1>To Do</h1>
+          <h3>Fold Laundry and put in living room</h3>
+          <h3>Clean Kitchen</h3>
+          <h3>Empty Fridge</h3>
+          <h3>Empty Fridge</h3>
+
+
+        </div>
+
       </div>
     </div>
   );
