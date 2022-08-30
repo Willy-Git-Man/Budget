@@ -43,12 +43,28 @@ body {
   height: 75%;
   width: 75%;
   background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+
+
+}
+.budgetFormInnerDiv {
+  height: 75%;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
 
 
 }
 
 .budgetFormOuterDiv h1 {
   width: 100%;
+  margin: 0;
   display: flex;
   justify-content: center;
 }
@@ -92,7 +108,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   width: 100%;
-  height: 250px;
+  height: 30%;
   background-color: pink;
 }
 

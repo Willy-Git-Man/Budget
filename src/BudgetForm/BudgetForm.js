@@ -82,10 +82,10 @@ function BudgetForm() {
 
         <div className="toDo">
           <h1>To Do</h1>
-          <h3>Fold Laundry and put in living room</h3>
-          <h3>Clean Kitchen</h3>
-          <h3>Empty Fridge</h3>
-          <h3>Empty Fridge</h3>
+          <h3>Kitchen and work Area cleaned</h3>
+          <h3>Trash</h3>
+          <h3>Sheets</h3>
+          <h3>Train Ticket</h3>
 
 
         </div>
