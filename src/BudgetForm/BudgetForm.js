@@ -53,6 +53,7 @@ function BudgetForm() {
             After Tax and Rent: ${afterTaxMonthly - monthlyCost}
           </li>
 
+
           {/* <li className="budgetLi">
           After Tax Weekly: {afterTaxWeekly}
         </li>
